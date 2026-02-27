@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="STREAMING MEDIA",SONY SAB (USA)
+http://nocable.cc:8080/789588/114528/125809
+
+#EXTINF:-1 group-title="STREAMING MEDIA",SONY MAX (USA)
+http://nocable.cc:8080/789588/114528/125814
+
+#EXTINF:-1 group-title="STREAMING MEDIA",SONY MAX 2 (USA)
+http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/125795
+
+#EXTINF:-1 group-title="STREAMING MEDIA",FOOD FOOD (USA)
+http://nocable.cc:8080/789588/114528/125807
+
+#EXTINF:-1 group-title="TERRESTRIAL TV",ZOOM (IND)
+https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
+
+#EXTINF:-1 group-title="TERRESTRIAL TV",ZEE NEWS (IND)
+https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
+
+#EXTINF:-1 group-title="TERRESTRIAL TV",B4U MOVIES (IND)
+https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+
+#EXTINF:-1 group-title="TERRESTRIAL TV",B4U MUSIC (IND)
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+
+#EXTINF:-1 group-title="TERRESTRIAL TV",CARTOON NETWORK (IND)
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
+
+#EXTINF:-1 group-title="TERRESTRIAL TV",SHEMAROO TV (IND)
+https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Hindi Movies",B4U Movies
+https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
+
+#EXTINF:-1 group-title="Hindi Movies",Zee Anmol Cinema 2
+http://110.39.27.47:8001/play/a03w/index.m3u8
+
+#EXTINF:-1 group-title="Hindi Movies",Goldmines
+https://amg01448-samsungin-goldmines-samsungin-ad-qy.amagi.tv/playlist.m3u8
